@@ -2,7 +2,7 @@
 title: "Dialing Up c: A pragmatic look at warp energy, speeds, and how far we could actually go"
 description: "In plain language: what a warp bubble really buys you, how the energy scales as you dial up multiples of c, and what that means for crossing real cosmic distances on real timelines."
 pubDate: 2025-08-30
-tags: ["physics", "warp drive", "FTL"]
+tags: ["physics", "warp drive", "FTL", "space travel", "faster than light", "general relativity", "cosmology", "spacetime", "energy", "Alcubierre drive", "interstellar travel", "theoretical physics"]
 ---
 
 ## The short version
@@ -47,9 +47,9 @@ I am going to define a toy unit called a Warp Unit, abbreviated WU. It is not jo
 
 That gives:
 
-\[
+$$
 \text{WU} \approx \left(\frac{v}{c}\right)^2 \left(\frac{R}{50\,\text{m}}\right)^3
-\]
+$$
 
 Plug in some numbers so it sticks:
 
