@@ -1,5 +1,5 @@
 ---
-title: "Dialing Up c: A pragmatic look at warp energy, speeds, and how far we could actually go"
+title: "Dialing Up C: A Pragmatic Look at Warp Energy, Speeds, and How Far We Could Actually Go"
 description: "In plain language: what a warp bubble really buys you, how the energy scales as you dial up multiples of c, and what that means for crossing real cosmic distances on real timelines."
 pubDate: 2025-08-30
 tags: ["physics", "warp drive", "FTL", "space travel", "faster than light", "general relativity", "cosmology", "spacetime", "energy", "Alcubierre drive", "interstellar travel", "theoretical physics"]
